@@ -1,25 +1,16 @@
 ## Hi! Mình tên là Phạm Thanh Điền 🌞. Cảm ơn vì đã xem github của mình 👋
-<h2 align="center">📖 Profile 📖</h2>
-<br>
-<p>
-  <a href="https://huflit.edu.vn/" target="_blank">
-    <strong>☕ Là sinh viên năm ba của trường HUFLIT</strong>
-  </a>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtube.com/@trungquandev" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
+
+![HUFLIT](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; Xin chào mọi người, mình là sinh viên năm 3 của trường ![HUFLIT](https://huflit.edu.vn/).\
+🌱 &nbsp; Chuyên ngành công nghệ thông tin. Mình chuyên về mảng lập trình Front End.\
+✍️ &nbsp; Ngoài sở thích về kỹ thuật, mình thích xem phim và chơi cầu lông.\
+💬 &nbsp; Nếu bạn có cùng đam mê thì hãy liên lạc với. Mình sẽ trả lời sớm nhất có thể.
 
 <br>
 <h2 align="center">🔥 Technologies and Tools 🔥</h2>
@@ -47,7 +38,7 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <br>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">👽 Contact Information 👽</h2>
 <br>
 <div align="center">
@@ -65,6 +56,7 @@
   </a>
 </div>
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 
 ![HUFLIT](https://camo.githubusercontent.com/fbeca1f4c1bb2bf0ed3c3c227a88c7042e7fa95fb03d7df6edd9409c6313b7cd/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f656173792d66726f6e74656e642f696d6167652f75706c6f61642f76313539383834303132312f626c6f672f656173792d66726f6e74656e642d62616e6e65722d63726f707065645f796a773067302e6a7067)
