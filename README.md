@@ -12,6 +12,7 @@
 ✍️ &nbsp; Not only I have an interest of art, but also I extremely fond of badminton and watchinng movies, especially for adventure genre.\
 💬 &nbsp; If you share the same passion with me please contact. I will respond as soon as possible.
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
   <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
