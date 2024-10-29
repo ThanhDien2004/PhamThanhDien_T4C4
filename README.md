@@ -70,8 +70,10 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 <br>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2>👽 Contact Information 👽</h2>
+
+<h2>👽 Contact Information</h2>
 <br>
 <div align="center">
   <a href="https://facebook.com/trungquandev](https://www.facebook.com/sasuke.dien?mibextid=ZbWKwL" target="blank">
@@ -88,7 +90,8 @@
   </a>
 </div>
 <br>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2>📑 My Favorite Quote 📑</h2>
+<h2>📑 My Favorite Quote </h2>
 
 ![HUFLIT](https://camo.githubusercontent.com/fbeca1f4c1bb2bf0ed3c3c227a88c7042e7fa95fb03d7df6edd9409c6313b7cd/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f656173792d66726f6e74656e642f696d6167652f75706c6f61642f76313539383834303132312f626c6f672f656173792d66726f6e74656e642d62616e6e65722d63726f707065645f796a773067302e6a7067)
