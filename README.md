@@ -1,4 +1,4 @@
-## Hi! Mình tên là Phạm Thanh Điền 🌞. Cảm ơn vì đã xem github của mình 👋
+## Hi! My name is Dien 🌞. Welcome to my GitHub personal profile👋
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
 </p>
@@ -7,10 +7,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Xin chào mọi người, mình là sinh viên năm 3 của trường ![HUFLIT](https://huflit.edu.vn/).\
-🌱 &nbsp; Chuyên ngành công nghệ thông tin. Mình chuyên về mảng lập trình Front End.\
-✍️ &nbsp; Ngoài sở thích về kỹ thuật, mình thích xem phim và chơi cầu lông.\
-💬 &nbsp; Nếu bạn có cùng đam mê thì hãy liên lạc với. Mình sẽ trả lời sớm nhất có thể.
+💡 &nbsp; Hi guys, I'm currently a third-year student at [HUFLIT](https://huflit.edu.vn/).\
+🌱 &nbsp; My major is Information Technology. I'm specialized in Front-End developing.\
+✍️ &nbsp; Not only I have an interest of art, but also I extremely fond of badminton and watchinng movies, especially for adventure genre.\
+💬 &nbsp; If you share the same passion with me please contact. I will respond as soon as possible.
 
 <br>
 <h2 align="center">🔥 Technologies and Tools 🔥</h2>
